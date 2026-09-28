@@ -53,8 +53,7 @@ Typical run times on a standard desktop: Code_02 about 1 minute, Code_03 about 2
 * Figures use Times New Roman if installed; otherwise TeX Gyre Termes, a Times-compatible typeface.
 
 ## Citation
-If you use this code, please cite the associated article (details will be added on publication)
-and this repository (see `CITATION.cff`).
+If you use this code, please cite the associated article (details will be added on publication).
 
 ## Licence
 Code: MIT Licence (see `LICENSE`). The technology data are derived from publicly available DNV figures;
